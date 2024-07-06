@@ -82,7 +82,7 @@ defineExpose({
   </td>
 </template>
 
-<style>
+<style scoped>
 .selectBar {
   display: flex;
   height: 100%;
