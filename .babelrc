@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": "> 0.25%, not dead"
+      }
+    ]
+  ],
+  "plugins": [
+    "@vue/babel-plugin-jsx",
+    "@vue/babel-plugin-transform-vue-jsx"
+  ]
+}
